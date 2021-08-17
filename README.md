@@ -73,8 +73,19 @@ Disconnect all jumper wires from your Ender and replace the cover.
 Plug a USB mini B connector into the front of your printer.
 
 #### Step 3:
-Download and extract the Marlin .Zip file from this repository
+Download and extract the Marlin .Zip file from this repository.
 
 #### Step 4:
-Locate and open the 
+Locate and open the Marlin.ino file.
+
+#### Step 5:
+Under Tools, set: 
+* board to "Sanguino"
+* processor to "ATmega1248 or ATmega1248P (16MHz)"
+* programmer to "Arduino as ISP".
+
+#### Step 6:
+Finally, click upload. This process will take some time...
+
+#### Once uploaded, disconnect your USB cable from the printer and you're done!
 
