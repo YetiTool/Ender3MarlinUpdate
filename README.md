@@ -4,6 +4,8 @@
 This article is heavily inspired by https://howchoo.com/ender3/ender-3-bootloader-firmware-update-marlin
 Images also from https://howchoo.com/ender3/ender-3-bootloader-firmware-update-marlin
 
+In this configuration of Marlin, the thermister type has been changed form 1 to 5 to match the thermister in an E3D V6 hotend. This can be changed in configuration.h
+
 ### Burning a bootloader
 In order to write Marlin to an Ender 3, we first must burn a bootloader to the mainboard. This can be done with an Arduino Uno, Mega (or knockoff)
 
@@ -77,6 +79,7 @@ Download and extract the Marlin .Zip file from this repository.
 
 #### Step 4:
 Locate and open the Marlin.ino file.
+(Marlin-2.0.x Yeti.zip\Marlin-2.0.x Yeti\Marlin-2.0.x\Marlin)
 
 #### Step 5:
 Under Tools, set: 
