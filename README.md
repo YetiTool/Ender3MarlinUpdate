@@ -1,4 +1,4 @@
-# Ender3MarlinUpdate
+# Ender3 Marlin Update
 ## A Repo containing the correct files and documentation for getting Marlin firmware on a Creality Ender 3
 
 This article is heavily inspired by https://howchoo.com/ender3/ender-3-bootloader-firmware-update-marlin
