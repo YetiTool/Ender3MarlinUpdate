@@ -2,7 +2,7 @@
 ## Step 1: Download and install python (3.9 or later)
 Visit https://www.python.org/downloads/ and follow the given installation instructions.
 ## Step 2: Download Gcode Updater.py
-Download Gcode Updater.py from this repository and save it to an accessable location. (e.g. Desktop)
+Download Gcode Updater.py from this folder and save it to an accessable location. (e.g. Desktop)
 ## Step 3: Locate your file path
 If using an SD card, only the drive letter is needed. (e.g D:/ or E:/) if the files are burried in a folder, find the folder's path.
 ## Step 4: Running the program
