@@ -43,7 +43,7 @@ Connect your Arduino to the Ender mainboard using 5 female to female jumper wire
 Use a female to male jumper to connect RESET to Arduino pin ~10
 
 #### Step 8:
-Install the U8glib libary. Open the libraries manager, search U8glib and install the latest version.
+Install the U8glib-HAL libary. Open the libraries manager, search U8glib-HAL and install the latest version.
 
 ![](https://howchoo.com/media/yj/jm/yj/installing-the-u8glib-library.png?width=1440&auto=webp&quality=70)
 
